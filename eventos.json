@@ -1,1 +1,29 @@
-[{"id":"17","names":"juan","email":"sass","phone_number":"12321"},{"id":"31","names":"juana","email":"juana@comun.com","phone_number":"0055520"},{"id":"32","names":"pedra","email":"pedra@piedra.com","phone_number":"025247"}]
+[
+  {
+    "idEventos": "2",
+    "imagen": "https://s3.amazonaws.com/assets.moveglobally.com/property_images/392231/6884502/EB-AM2231.JPG?1481925761",
+    "Nombre": "Playa Barra Salada",
+    "fecha": "2019-12-31 08:13:19",
+    "Descripcion": "Este evento se llevará a cabo en la playa barra salada y será un gran evento ¡Asiste!",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "idEventos": "3",
+    "imagen": "https://s3.amazonaws.com/assets.moveglobally.com/property_images/392231/6884502/EB-AM2231.JPG?1481925761",
+    "Nombre": "Evento en el Palacio Municipal ",
+    "fecha": "2019-12-30 15:27:31",
+    "Descripcion": "Este evento será de parte de la alcaldía pero se llevará a cabo en el parque Rafael Campo ¡Estás invitado!",
+    "created_at": null,
+    "updated_at": null
+  },
+  {
+    "idEventos": "4",
+    "imagen": "https://s3.amazonaws.com/assets.moveglobally.com/property_images/392231/6884502/EB-AM2231.JPG?1481925761",
+    "Nombre": "Evento en Plaza Ferroviaria ",
+    "fecha": "2019-12-31 16:30:00",
+    "Descripcion": "Ven y disfruta de este evento a realizarse en la plaza ferroviaria. Habrá mucha diversión, juegos para niños, y una gran variedad de platillos típicos. No te lo puedes perder.",
+    "created_at": null,
+    "updated_at": null
+  }
+]
